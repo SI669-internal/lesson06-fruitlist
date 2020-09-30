@@ -10,7 +10,6 @@ export default class App extends React.Component {
       { type: 'banana', key: '2'},
       { type: 'grape', key: '3'},
       { type: 'pineapple', key: '4'},
-      { type: 'kiwi', key: '5'}
     ];
   }
 
